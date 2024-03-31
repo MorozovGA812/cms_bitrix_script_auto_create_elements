@@ -1,0 +1,1 @@
+CMS Bitrix script for auto-creating elements in infoblocks with optional parameters.
